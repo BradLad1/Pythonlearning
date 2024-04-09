@@ -1,6 +1,6 @@
 #Sets are like tuple but they ordered and can be changed at runtime
 
-names1={"Roger", "Syd"}
+names1={"Roger", "Syd", "ape"}
 names2={"Roger"}
 
 modific = names1 | names2 # | is used how we put two sets together

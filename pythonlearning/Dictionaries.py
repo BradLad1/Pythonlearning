@@ -28,6 +28,6 @@ print(dog)
 del dog["Owner"]#This is how we delete a key;value pair
 print(dog)
 
-dogCopy =dog.copy()#This is how we copy a dictionary
+dogCopy =dog.copy()#This is how we copy a dictionary 
 print(dogCopy)
 #A dictionary is key:value pairs
